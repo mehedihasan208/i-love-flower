@@ -100,6 +100,31 @@
 
 }
 .skill-discribe{
+    color: rgba(39, 39, 39, 0.80);
+}
 
 
+/* fourth part of flower  */
+.sell-flower{
+    display: flex;
+    justify-content: space-around;
+  align-items: center;
+  height: 60vh;
+  background: rgba(229, 84, 115, 0.05);
+  gap: 15px;
+}
+.sell-flowere{
+    width: 300px;
+    height: 350px;
+    margin-right: 200px;
+}
+.Christmas-magic{
+    margin-left: 300px;
+}
+.Christmas-magic p{
+    color: rgba(39, 39, 39, 0.60);
+    margin-top: 10px;
+}
+.red-bull{
+    color: #E55473;
 }
