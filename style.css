@@ -57,39 +57,39 @@
    gap: 15px;
 }
 .different-one{
-    border-radius: 300px 300px 0px 0px;
+    border-radius:300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     width: 370px;
     height: 370px;
 }
 .different-two{
-    border-radius: 300px 300px 0px 0px;
+    border-radius:300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     width: 370px;
     height: 370px;
 }
 .different-three{
-    border-radius: 300px 300px 0px 0px;
+    border-radius:300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     width: 370px;
     height: 370px;
 }
 .between-one{
-    width: 300px;
-    height: 250px; 
+    width:300px;
+    height: 300px; 
 }
 .between-two{
-    width: 300px;
-    height: 250px; 
+    width:300px;
+    height: 300px; 
 }
 .between-three{
-    width: 300px;
-    height: 250px;
+    width:300px;
+    height: 300px;
 }
 
 .Holly-wood{
     display: flex;
-    margin: 200px;
+    margin:300px;
     align-items: center;
     justify-content:space-around;
     gap: 15px;
@@ -114,17 +114,55 @@
   gap: 15px;
 }
 .sell-flowere{
-    width: 300px;
+    width:300px;
     height: 350px;
-    margin-right: 200px;
+    margin-right:300px;
 }
 .Christmas-magic{
-    margin-left: 300px;
+    margin-left:300px;
 }
 .Christmas-magic p{
     color: rgba(39, 39, 39, 0.60);
     margin-top: 10px;
+    text-align: center;
 }
+.Christmas-magic h1{
+    text-align: center; 
+}
+
 .red-bull{
     color: #E55473;
+}
+.btn-second{
+    border-radius: 5px;
+    background: #E55473;
+    height: 50px;
+    width: 150px;
+    display: block; 
+    margin: auto;
+    margin-top: 20px;
+}
+.baby-flower{
+    display: flex; 
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    gap: 15px;
+    margin:auto;
+}
+.chiled-jesmin{
+    height:300px;
+    width:300px;
+}
+.baby-jesmin{
+    height:300px;
+    width:300px;
+}
+.title-jesmin{
+    height:300px;
+    width:300px;
+}
+.banner{
+    height:300px;
+    width:300px;   
 }
