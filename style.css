@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Angle-Poppy {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70vh;
+  background-color: rgba(229, 84, 115, 0.1);
+  gap: 30px;
+}
+.gift-from-God {
+  width: 400px;
+  height: 500px;
+  margin-top: 30px;
+}
+.Channel-Jasmine {
+  margin-top: 10px;
+}
+.btn-primary {
+  margin-top: 15px;
+}
+.road-map {
+  margin-top: 15px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 200;
+}
+.Channel-Jasmine h1 {
+  color: #272727;
+  font-size: 50px;
+  font-weight: 600;
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #E55473;
+    height: 50px;
+    width: 150px;
+}
+
