@@ -6,7 +6,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 80vh;
+  height: 70vh;
   background-color: rgba(229, 84, 115, 0.1);
   gap: 30px;
 }
@@ -18,10 +18,7 @@
 .Channel-Jasmine {
   margin-top: 10px;
 }
-.btn-primary {
-  margin-top: 15px;
-  border: none;
-}
+
 .road-map {
   margin-top: 15px;
   color: rgba(39, 39, 39, 0.6);
@@ -36,8 +33,9 @@
 .btn-primary{
     border-radius: 5px;
     background: #E55473;
-    height: 50px;
-    width: 150px;
+    padding:15px 20px 15px 20px;
+    margin-top: 15px;
+    border: none;
 }
 
 /* second part of flower project */
@@ -127,8 +125,7 @@
 .btn-second{
     border-radius: 5px;
     background: #E55473;
-    height: 50px;
-    width: 150px;
+    padding:15px 20px 15px 20px;
     display: block; 
     margin: auto;
     margin-top: 20px;
@@ -211,4 +208,36 @@
         /* align-items: center; */
         background-color:aliceblue;
         gap: 100px;
+    }
+    .open-time{
+        margin-left: 20px;
+    }
+    .open-time h1{
+       text-align: center;
+       font-size: 70px;
+    }
+    .close-time{
+        display: flex;align-items: center;
+        justify-content: center;
+        margin-top: 100px;
+        font-size: 20px;
+        gap: 100px;
+    }
+    .close-time h3{
+        margin-top: 20px;
+    }
+    .submit{
+        border-radius: 5px;
+        background: #961f39;
+        padding:15px 20px 15px 20px;
+        display: block; 
+        color: #ffffff;
+        font-size: 18px;
+        margin: auto;
+        border: none;
+        margin-top: 20px;
+    }
+    .reput{
+        text-align: center;
+        margin-top: 20px;
     }
