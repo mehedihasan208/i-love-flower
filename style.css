@@ -6,7 +6,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 70vh;
+  height: 80vh;
   background-color: rgba(229, 84, 115, 0.1);
   gap: 30px;
 }
@@ -20,6 +20,7 @@
 }
 .btn-primary {
   margin-top: 15px;
+  border: none;
 }
 .road-map {
   margin-top: 15px;
@@ -59,32 +60,22 @@
 .different-one{
     border-radius:300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    width: 370px;
-    height: 370px;
+    height: 500px;
 }
 .different-two{
     border-radius:300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    width: 370px;
-    height: 370px;
+    height: 500px;
 }
 .different-three{
     border-radius:300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    width: 370px;
-    height: 370px;
-}
+    height: 500px;
+} 
 .between-one{
-    width:300px;
-    height: 300px; 
-}
-.between-two{
-    width:300px;
-    height: 300px; 
-}
-.between-three{
-    width:300px;
-    height: 300px;
+    padding: 40px 40px 0px 40px;
+    width: 300px;
+    margin: auto;
 }
 
 .Holly-wood{
@@ -145,24 +136,79 @@
 .baby-flower{
     display: flex; 
     justify-content: center;
-    height: 100px;
+    height: 60vh;
     width: 100px;
+
     gap: 15px;
     margin:auto;
 }
-.chiled-jesmin{
-    height:300px;
-    width:300px;
-}
-.baby-jesmin{
-    height:300px;
-    width:300px;
-}
+
 .title-jesmin{
     height:300px;
     width:300px;
 }
-.banner{
-    height:300px;
-    width:300px;   
+   
+  
+/* six part of flower */
+
+.section-banner{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+ background-image:url("/Rectangle\ 9.png");
+   height: 40vh;
+   background-repeat: no-repeat;
+   background-position: center;
+   text-align: center;
 }
+ .selector{
+    height: 50px;
+    width: 600px;
+    border-radius: 6px;
+    border: none;
+
+ }
+ .section-banner p{
+    color: rgba(39, 39, 39, 0.60);
+ }
+ .section-banner h1{
+    font-size: 40px;
+ }
+ 
+ /* last part of flower */
+    .footer-info{
+        height: 30vh;
+        background-color: black;
+        margin-top: 100px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    }
+    .footer-info h6{
+        margin-top: 20px;
+        color: rgba(255, 255, 255, 0.40);
+    }
+
+    .footer-info p{
+        margin-top: 20px;
+        color: rgba(255, 255, 255, 0.90);
+    }
+
+    .discover{
+        color: #E55473; ;
+    }
+
+
+
+    /* seven part of flower */
+
+    .shop-info{
+        display: flex;
+        height: 70vh;
+        padding: 80px;
+        margin-top: 100px;
+        /* justify-content: space-around; */
+        /* align-items: center; */
+        background-color:aliceblue;
+        gap: 100px;
+    }
