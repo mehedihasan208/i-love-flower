@@ -39,3 +39,67 @@
     width: 150px;
 }
 
+/* second part of flower project */
+
+.flower-azalea{
+    text-align: center;
+    margin: 100px;
+}
+.flower-azalea p{
+    color: rgba(39, 39, 39, 0.60);
+
+}
+.flower-amaryllis{
+    display: flex;
+   margin: 50px;
+   align-items: center;
+   justify-content:center;
+   gap: 15px;
+}
+.different-one{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 370px;
+    height: 370px;
+}
+.different-two{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 370px;
+    height: 370px;
+}
+.different-three{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 370px;
+    height: 370px;
+}
+.between-one{
+    width: 300px;
+    height: 250px; 
+}
+.between-two{
+    width: 300px;
+    height: 250px; 
+}
+.between-three{
+    width: 300px;
+    height: 250px;
+}
+
+.Holly-wood{
+    display: flex;
+    margin: 200px;
+    align-items: center;
+    justify-content:space-around;
+    gap: 15px;
+    padding: 80px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    text-align: center;
+
+}
+.skill-discribe{
+
+
+}
